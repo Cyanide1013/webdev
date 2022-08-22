@@ -1,6 +1,42 @@
 h1{
-color: #07A4B5;
+color: #AC7088;
 }
 h3{
-  color: #C9EFF9;
+  color: #DEB6AB;
 }
+/*
+to change heading colour*/
+
+.game{
+  background-color: #F5E8C7;
+  border-radius: 7%;
+  height: 50%;
+  width: 30%;
+}
+.pog{
+  background-color: #F5E8C7;
+  border-radius: 20%;
+  height: 4%;
+  width: 10%;
+}
+.arnavi{
+  background-color: #F5E8C7;
+  border-radius: 10%;
+  height: 4%;
+  width: 10%;
+
+}
+.myslef{
+  text-align: left;
+  text-decoration: underline;
+  text-indent: 30px;
+  margin-right: 30px;
+
+}
+/*class selection */
+
+#headingimage{
+  background-color: #F5E8C7;
+}
+
+/*id selection */
